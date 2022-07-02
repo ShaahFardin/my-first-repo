@@ -1,0 +1,35 @@
+
+
+.first_div{
+    background-color: #DBE2E9;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 20px 15px ;
+    margin: 50px;
+    
+    
+}
+.second_div{
+    background-color: #DADADA;
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 20px 15px ;
+    margin: 50px;
+}
+.third_div{
+    
+    height: 200px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 20px 15px ;
+    margin: 50px;
+}
+.header{
+    text-align: center;
+    
+}
